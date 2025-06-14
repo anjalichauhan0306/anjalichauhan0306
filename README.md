@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning **Data Structures and Algorithms**
 - 💻 I’m working on **MERN Stack Projects (MongoDB, Express.js, React, Node.js)**
 - 🤝 I’m looking to collaborate on **real-world web applications**
-- 📫 How to reach me: **anjalitahir822@gmail.com**
+- 📫 How to reach me: **ac1447703@gmail.com**
 - ⚡ Fun fact: I love solving coding problems and exploring new tech daily!
 
 ---
@@ -30,6 +30,6 @@
 
 ### 📫 Connect With Me:
 
-- 📧 Email: [anjalitahir822@gmail.com](mailto:ac1447703@gmail.com)
+- 📧 Email: [ac1447703@gmail.com](mailto:ac1447703@gmail.com)
 - 💼 LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/anjali-chauhan-22b93430a/)
 

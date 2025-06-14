@@ -30,6 +30,6 @@
 
 ### 📫 Connect With Me:
 
-- 📧 Email: [anjalitahir822@gmail.com](mailto:anjalitahir822@gmail.com)
-- 💼 LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/anjali-chauhan-17a524332)
+- 📧 Email: [anjalitahir822@gmail.com](mailto:ac1447703@gmail.com)
+- 💼 LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/anjali-chauhan-22b93430a/)
 

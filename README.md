@@ -1,35 +1,49 @@
 <h1 align="center">Hi 👋, I'm Anjali Chauhan</h1>
-<h3 align="center">A passionate MERN Stack Developer & DSA Learner</h3>
+<h3 align="center">Full Stack Developer | Java DSA Explorer | Tech Curious</h3>
+
 
 - 🌱 I’m currently learning **Data Structures and Algorithms**
-- 💻 I’m working on **MERN Stack Projects (MongoDB, Express.js, React, Node.js)**
-- 🤝 I’m looking to collaborate on **real-world web applications**
-- 📫 How to reach me: **ac1447703@gmail.com**
-- ⚡ Fun fact: I love solving coding problems and exploring new tech daily!
-
+- 💻 Currently building **full-stack projects** using modern web technologies 
+- 🎯 Focused on writing **scalable, maintainable** code for real-world applications
+- 📫 Reach me at: [ac1447703@gmail.com](mailto:ac1447703@gmail.com)
 ---
 
-### 🛠️ Languages and Tools:
+### 🧰 Technologies I Work With
+#### 🌐 Frontend  
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
 
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
----
+#### 🖥️ Backend  
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
 
-### 📊 GitHub Stats:
+#### 🗃️ Databases  
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
 
-![Anjali's GitHub Stats](https://github-readme-stats.vercel.app/api?username=anjalichauhan0306&show_icons=true&theme=radical)
+#### 🧰 Tools & Platforms  
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
+
+### 📊 GitHub Stats
+
+![Anjali's GitHub Stats](https://github-readme-stats.vercel.app/api?username=anjalichauhan0306&show_icons=true&theme=radical)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=anjalichauhan0306&layout=compact&theme=radical)
 
 ---
+### 📫 Connect With Me
 
-### 📫 Connect With Me:
-
-- 📧 Email: [ac1447703@gmail.com](mailto:ac1447703@gmail.com)
-- 💼 LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/anjali-chauhan-22b93430a/)
-
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:ac1447703@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anjali-chauhan-22b93430a/)

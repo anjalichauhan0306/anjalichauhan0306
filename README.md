@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning **Data Structures and Algorithms**
 - 💻 Currently building **full-stack projects** using modern web technologies 
-- 🎯 Focused on writing **scalable, maintainable** code for real-world applications
+- 🎯 Focused on writing **scalable, maintainable** code for real-world application
 - 📫 Reach me at: [ac1447703@gmail.com](mailto:ac1447703@gmail.com)
 ---
 

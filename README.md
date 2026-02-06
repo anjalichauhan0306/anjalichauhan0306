@@ -36,11 +36,6 @@
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
 
-### 📊 GitHub Stats
-
-![Anjali's GitHub Stats](https://github-readme-stats.vercel.app/api?username=anjalichauhan0306&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=anjalichauhan0306&layout=compact&theme=radical)
-
 ---
 ### 📫 Connect With Me
 

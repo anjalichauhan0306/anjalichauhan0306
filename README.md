@@ -7,8 +7,9 @@
 - 🎯 Focused on writing **scalable, maintainable** code for real-world application
 - 📫 Reach me at: [ac1447703@gmail.com](mailto:ac1447703@gmail.com)
 ---
+## ⚡ Total Digital Footprints
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=anjalichauhan0306&label=Views%20⚡&color=79C0FF&style=flat&labelColor=222222" alt="Unique Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=anjalichauhan0306&label=Visitors%20Count&color=79C0FF&style=for-the-badge&labelColor=333333" alt="Profile Views" />
 </p>
 
 ### 🧰 Technologies I Work With

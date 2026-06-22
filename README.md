@@ -8,6 +8,8 @@
 - 📫 Reach me at: [ac1447703@gmail.com](mailto:ac1447703@gmail.com)
 ---
 
+![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fanjalichauhan0306&count_bg=%2379C0FF&title_bg=%23555555&icon=&icon_color=%23E1E1E1&title=Profile+Views&edge_flat=false)
+
 ### 🧰 Technologies I Work With
 #### 🌐 Frontend  
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)

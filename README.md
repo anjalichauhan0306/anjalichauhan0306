@@ -8,7 +8,7 @@
 - 📫 Reach me at: [ac1447703@gmail.com](mailto:ac1447703@gmail.com)
 ---
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=anjalichauhan0306&label=Unique%20Profile%20Views&color=79C0FF&style=flat-square&mode=unique" alt="Unique Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=anjalichauhan0306&label=Views%20⚡&color=79C0FF&style=flat&labelColor=222222" alt="Unique Profile Views" />
 </p>
 
 ### 🧰 Technologies I Work With

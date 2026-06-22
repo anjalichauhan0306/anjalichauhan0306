@@ -9,7 +9,7 @@
 ---
 
 <p align="center">
-  <img src="https://profile-counter.glitch.me/anjalichauhan0306/count.svg" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=anjalichauhan0306&label=Profile%20Views&color=79C0FF&style=flat-square" alt="Profile Views" />
 </p>
 
 ### 🧰 Technologies I Work With

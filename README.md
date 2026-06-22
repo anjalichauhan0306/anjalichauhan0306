@@ -9,7 +9,7 @@
 ---
 
 <p align="center">
-  <img src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&label=Profile%20Views&query=%24.value&url=https%3A%2F%2Fapi.countapi.xyz%2Fhit%2Fanjalichauhan0306%2Fvisits&color=79C0FF&labelColor=555555" alt="Views"/>
+  <img src="https://profile-counter.glitch.me/anjalichauhan0306/count.svg" alt="Profile Views" />
 </p>
 
 ### 🧰 Technologies I Work With
